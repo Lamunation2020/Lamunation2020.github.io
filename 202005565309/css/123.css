@@ -1,0 +1,35 @@
+.headline {
+	font-size: x-large;
+	text-align: center;
+	background-color: cornflowerblue;
+	height: 30px;
+	border-radius: 20%;
+}
+.content{
+	font-size: 16px;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 30px;
+    background-color: #ADD8E6;
+}
+nav{
+    float: left;
+    width:1600px;
+    height:50px;
+    background-color: lightblue;
+    border-radius: 10%;
+    margin: 0 0;
+    }
+nav ul li {
+    display: inline;
+}
+nav ul li a {
+    padding: 0 90px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    background: url(../images/templatemo_menu_divider.png)        center right no-repeat;
+    color: #fff;    
+    font-family: "楷体";
+    outline: none;
+}
